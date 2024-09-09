@@ -13,7 +13,7 @@ System.Console.WriteLine("How many sandwiches are you buying?");
 numberOfSandwisches = double.Parse(Console.ReadLine());
 
 //get topping number 
-System.Console.WriteLine("How many toppings are on your sandwich?");
+System.Console.WriteLine("How many toppings?");
 numberOfToppings = double.Parse(Console.ReadLine());
 
 //get tip

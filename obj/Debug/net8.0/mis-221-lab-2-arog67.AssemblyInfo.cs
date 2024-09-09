@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mis-221-lab-2-arog67")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c254ea210140c2610fe87c5bc8e9c66dd94fbcb8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dab51998269af25ad77051783f5f9ec56504739a")]
 [assembly: System.Reflection.AssemblyProductAttribute("mis-221-lab-2-arog67")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mis-221-lab-2-arog67")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
